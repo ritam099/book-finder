@@ -1,0 +1,127 @@
+body {
+    background: url("bg3.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+  }
+  
+  .container {
+    text-align: center;
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
+  h1 {
+    color: #000000;
+    font-size: 55px;
+  }
+  
+  .flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 60%;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #45a049;
+  }
+  
+  .books {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 20px;
+  }
+  
+  .book {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .book img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .book h3 {
+    margin-bottom: 10px;
+  }
+  
+  .book p {
+    margin-bottom: 5px;
+  }
+  
+  /* Styles for genre buttons */
+  .genre-btn {
+    background-color: #4caf50;
+    color: #fff;
+  }
+  
+  .genre-btn:hover {
+    background-color: #45a049;
+  }
+  
+  /* Styles for single book view */
+  .single-book .book {
+    max-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .pagination-controls {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .pagination-controls button {
+    margin: 0 10px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .pagination-controls button:disabled {
+    cursor: not-allowed;
+    opacity: 0.5;
+  }
+  
+  /* Styles for sort buttons */
+  .sort-buttons {
+    margin-bottom: 20px;
+  }
+  
+  .sort-btn {
+    background-color: #f39c12;
+    color: #fff;
+    padding: 10px 20px;
+    margin: 0 5px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .sort-btn:hover {
+    background-color: #e67e22;
+  }
+  
+    

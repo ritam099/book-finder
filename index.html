@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Finder</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  
+    <div class="container">
+        <h1>Book Finder</h1>
+        <form class="flex" id="submit">
+          <input type="text" id="search" placeholder="Search for a book you like">
+          <button class="search-btn" type="submit">Search</button>
+        </form>
+        <div class="flex">
+          <button class="random-btn">Random Book</button>
+          <div class="genres">
+            <button class="show-all-btn">All Books</button>
+
+            <!-- <button class="genre-btn" id="thriller">Romance</button> -->
+            <button class="genre-btn" id="mystery">Fantasy</button>
+            <button class="genre-btn" id="autobiography">Thriller</button>
+          </div>
+          <div class="sort-buttons">
+            <!-- <button class="sort-btn" data-author="Gillian Flynn">Gillian Flynn</button> -->
+            <button class="sort-btn" data-author="J.K. Rowling">J.K. Rowling</button>
+            <button class="sort-btn" data-author="George Orwell">George Orwell</button>
+          </div>
+        </div>
+        <div id="result-heading"></div>
+        <div id="books" class="books"></div>
+        <div id="single-book"></div>
+        <div id="pagination" class="pagination-controls"></div>
+      </div>
+      
+
+  <script src="script.js"></script>
+</body>
+</html>

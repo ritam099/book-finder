@@ -1,0 +1,264 @@
+{
+    "books": [
+      {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Classic Literature",
+        "description": "A gripping and touching story about racial injustice in the American South.",
+        "cover": "https://covers.openlibrary.org/b/id/8225267-L.jpg"
+      },
+      {
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "description": "A dystopian novel set in a totalitarian society governed by Big Brother.",
+        "cover": "https://covers.openlibrary.org/b/id/8217405-L.jpg"
+      },
+      {
+        "title": "Animal Farm",
+        "author": "George Orwell",
+        "genre": "Political Satire",
+        "description": "A satirical allegory about the rise of Stalinism in the Soviet Union, told through the story of a group of farm animals.",
+        "cover": "https://covers.openlibrary.org/b/id/8225638-L.jpg"
+      },
+      {
+        "title": "Homage to Catalonia",
+        "author": "George Orwell",
+        "genre": "Non-fiction",
+        "description": "An account of Orwell's personal experiences during the Spanish Civil War.",
+        "cover": "https://covers.openlibrary.org/b/id/8225910-L.jpg"
+      },
+      {
+        "title": "Down and Out in Paris and London",
+        "author": "George Orwell",
+        "genre": "Memoir",
+        "description": "A memoir of Orwell's experiences living in poverty in both Paris and London.",
+        "cover": "https://covers.openlibrary.org/b/id/8225671-L.jpg"
+      },
+      {
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "description": "The first book in the Harry Potter series, introducing the young wizard Harry Potter.",
+        "cover": "https://covers.openlibrary.org/b/id/7887155-L.jpg"
+      },
+      {
+        "title": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "description": "The second book in the Harry Potter series, following Harry's second year at Hogwarts School of Witchcraft and Wizardry.",
+        "cover": "https://covers.openlibrary.org/b/id/7891836-L.jpg"
+      },
+      {
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "description": "The third book in the Harry Potter series, where Harry learns about Sirius Black, an escaped prisoner believed to be after him.",
+        "cover": "https://covers.openlibrary.org/b/id/7891845-L.jpg"
+      },
+      {
+        "title": "Harry Potter and the Goblet of Fire",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "description": "The fourth book in the Harry Potter series, where Harry competes in the dangerous Triwizard Tournament.",
+        "cover": "https://covers.openlibrary.org/b/id/7891850-L.jpg"
+      },
+      {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic Literature",
+        "description": "A novel about the American Dream and the disillusionments of the Jazz Age.",
+        "cover": "https://covers.openlibrary.org/b/id/7226796-L.jpg"
+      },
+      {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "description": "A classic novel exploring themes of love, reputation, and social status.",
+        "cover": "https://covers.openlibrary.org/b/id/8220472-L.jpg"
+      },
+      {
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "description": "A fantasy novel about the adventures of Bilbo Baggins in Middle-earth.",
+        "cover": "https://covers.openlibrary.org/b/id/7822132-L.jpg"
+      },
+      {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Classic Literature",
+        "description": "A story about teenage angst and alienation, told from the perspective of Holden Caulfield.",
+        "cover": "https://covers.openlibrary.org/b/id/7222266-L.jpg"
+      },
+      {
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genre": "Thriller",
+        "description": "A mystical thriller exploring hidden messages in Leonardo da Vinci's works.",
+        "cover": "https://covers.openlibrary.org/b/id/7998482-L.jpg"
+      },
+      {
+        "title": "The Girl on the Train",
+        "author": "Paula Hawkins",
+        "genre": "Mystery",
+        "description": "A psychological thriller about a woman drawn into a missing person investigation.",
+        "cover": "https://covers.openlibrary.org/b/id/8321308-L.jpg"
+      },
+      {
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "genre": "Non-fiction",
+        "description": "An exploration of the history and impact of Homo sapiens.",
+        "cover": "https://covers.openlibrary.org/b/id/8107480-L.jpg"
+      },
+      {
+        "title": "Becoming",
+        "author": "Michelle Obama",
+        "genre": "Autobiography",
+        "description": "The memoir of former First Lady Michelle Obama.",
+        "cover": "https://covers.openlibrary.org/b/id/8295978-L.jpg"
+      },
+      {
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "genre": "Philosophy",
+        "description": "An ancient Chinese military treatise offering timeless strategies for warfare and leadership.",
+        "cover": "https://covers.openlibrary.org/b/id/7906663-L.jpg"
+      },
+      {
+        "title": "The Road",
+        "author": "Cormac McCarthy",
+        "genre": "Post-apocalyptic Fiction",
+        "description": "A poignant story of a father and son traveling through a bleak post-apocalyptic world.",
+        "cover": "https://covers.openlibrary.org/b/id/7244961-L.jpg"
+      },
+      {
+        "title": "The Book Thief",
+        "author": "Markus Zusak",
+        "genre": "Historical Fiction",
+        "description": "A story set in Nazi Germany narrated by Death, about a girl who loves books.",
+        "cover": "https://covers.openlibrary.org/b/id/8229153-L.jpg"
+      },
+      {
+        "title": "Gone Girl",
+        "author": "Gillian Flynn",
+        "genre": "Thriller",
+        "description": "A psychological thriller about a marriage gone wrong and the mysterious disappearance of a wife.",
+        "cover": "https://covers.openlibrary.org/b/id/8341747-L.jpg"
+      },
+      {
+        "title": "Sharp Objects",
+        "author": "Gillian Flynn",
+        "genre": "Thriller",
+        "description": "A journalist returns to her hometown to cover a series of brutal murders.",
+        "cover": "https://covers.openlibrary.org/b/id/8225462-L.jpg"
+      },
+      {
+        "title": "Dark Places",
+        "author": "Gillian Flynn",
+        "genre": "Thriller",
+        "description": "A novel about a woman who survived the massacre of her family as a child and returns to her hometown to investigate the truth.",
+        "cover": "https://covers.openlibrary.org/b/id/8240021-L.jpg"
+      },
+      {
+        "title": "The Grownup",
+        "author": "Gillian Flynn",
+        "genre": "Thriller",
+        "description": "A short story about a young woman who is asked to help a mysterious client with a haunted house.",
+        "cover": "https://covers.openlibrary.org/b/id/8305895-L.jpg"
+      },
+      {
+        "title": "The Girl Before",
+        "author": "JP Delaney",
+        "genre": "Thriller",
+        "description": "A psychological thriller about two women who live in a mysterious and unique house.",
+        "cover": "https://covers.openlibrary.org/b/id/8323640-L.jpg"
+      },
+      {
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "genre": "Thriller",
+        "description": "A psychological thriller about a woman who stops speaking after allegedly murdering her husband.",
+        "cover": "https://covers.openlibrary.org/b/id/8325856-L.jpg"
+      },
+      {
+        "title": "The Girl with the Dragon Tattoo",
+        "author": "Stieg Larsson",
+        "genre": "Thriller",
+        "description": "A gripping mystery thriller about a journalist and a hacker investigating a decades-old disappearance.",
+        "cover": "https://covers.openlibrary.org/b/id/8095760-L.jpg"
+      },
+      {
+        "title": "Big Little Lies",
+        "author": "Liane Moriarty",
+        "genre": "Thriller",
+        "description": "A story about three women whose lives are intertwined through a murder investigation.",
+        "cover": "https://covers.openlibrary.org/b/id/8186043-L.jpg"
+      },
+      {
+        "title": "Before I Go to Sleep",
+        "author": "S.J. Watson",
+        "genre": "Thriller",
+        "description": "A psychological thriller about a woman who loses her memory every night and must piece together her life from scratch each day.",
+        "cover": "https://covers.openlibrary.org/b/id/8315467-L.jpg"
+      },
+      {
+        "title": "The Outsider",
+        "author": "Stephen King",
+        "genre": "Horror",
+        "description": "A horror novel that blends crime, suspense, and the supernatural.",
+        "cover": "https://covers.openlibrary.org/b/id/8368922-L.jpg"
+      },
+      {
+        "title": "An Anonymous Girl",
+        "author": "Greer Hendricks and Sarah Pekkanen",
+        "genre": "Thriller",
+        "description": "A psychological thriller about a young woman who participates in a psychological study and becomes involved in a dangerous game.",
+        "cover": "https://covers.openlibrary.org/b/id/8321132-L.jpg"
+      },
+      {
+        "title": "Mistborn: The Final Empire",
+        "author": "Brandon Sanderson",
+        "genre": "Fantasy",
+        "description": "The first book in the Mistborn series, set in a world where some people can ingest metals to gain magical abilities.",
+        "cover": "https://covers.openlibrary.org/b/id/8199011-L.jpg"
+      },
+      {
+        "title": "The Way of Kings",
+        "author": "Brandon Sanderson",
+        "genre": "Fantasy",
+        "description": "The first book in The Stormlight Archive series, exploring the lives of characters in a world beset by magical storms and ancient war.",
+        "cover": "https://covers.openlibrary.org/b/id/8199023-L.jpg"
+      },
+      {
+        "title": "A Game of Thrones",
+        "author": "George R.R. Martin",
+        "genre": "Fantasy",
+        "description": "The first book in the A Song of Ice and Fire series, exploring the political intrigue and power struggles of noble families in the Seven Kingdoms of Westeros.",
+        "cover": "https://covers.openlibrary.org/b/id/7229548-L.jpg"
+      },
+      {
+        "title": "The Name of the Wind",
+        "author": "Patrick Rothfuss",
+        "genre": "Fantasy",
+        "description": "The first book in The Kingkiller Chronicle, following the life of Kvothe, a legendary figure known for his talents and tragedies.",
+        "cover": "https://covers.openlibrary.org/b/id/7914914-L.jpg"
+      },
+      {
+        "title": "The Priory of the Orange Tree",
+        "author": "Samantha Shannon",
+        "genre": "Fantasy",
+        "description": "An epic fantasy novel featuring a world on the brink of war and dragons.",
+        "cover": "https://covers.openlibrary.org/b/id/8185850-L.jpg"
+      },
+      {
+        "title": "The Lies of Locke Lamora",
+        "author": "Scott Lynch",
+        "genre": "Fantasy",
+        "description": "A story of a master thief and his band of fellow criminals as they navigate a world of intrigue and danger.",
+        "cover": "https://covers.openlibrary.org/b/id/7912836-L.jpg"
+      }
+    ]
+  }
+  
